@@ -1,0 +1,11 @@
+Model Information:
+* title:	Free Hyper Casual Room
+* source:	https://sketchfab.com/3d-models/free-hyper-casual-room-a35ecbc7f45f46a3a70a606a5e994619
+* author:	Artsiom Savelyeu (https://sketchfab.com/artsiom)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Free Hyper Casual Room" (https://sketchfab.com/3d-models/free-hyper-casual-room-a35ecbc7f45f46a3a70a606a5e994619) by Artsiom Savelyeu (https://sketchfab.com/artsiom) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
